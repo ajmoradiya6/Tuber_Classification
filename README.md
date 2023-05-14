@@ -42,7 +42,7 @@ To use this project, first clone the repo on your device using the command below
 
 ```git init```
 
-```git clone ```
+```git clone https://github.com/ajmoradiya6/Tuber_Classification```
 
 
 # Contribute
